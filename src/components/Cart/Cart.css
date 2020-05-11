@@ -1,0 +1,40 @@
+.cart-container{
+    width: 20%;
+    border-left: 1px solid #ccc;
+    
+}
+
+.cart-container h3{
+    text-align: center;
+    font-weight: 600;
+}
+
+.cart-container h4{
+    text-align: center;
+    font-weight: 400;
+}
+
+.cart-container table{
+    font-size: 12px;
+    
+    width: 100%;
+    
+    
+}
+.cart-container table.cal-table{
+    border-bottom: 1px solid gray;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.cart-container table tbody tr{
+    overflow: hidden;
+}
+
+.gr-total{
+    margin-left: 30px;
+}
+.gr-total td {
+    font-weight: bold;
+    font-size: 14px;
+}
